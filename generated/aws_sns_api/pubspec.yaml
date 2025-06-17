@@ -11,6 +11,6 @@ environment:
 
 dependencies:
   shared_aws_api: 
-    path: https://github.com/LongVu80/aws_client/tree/master/shared_aws_api
+    path: ../../shared_aws_api
 
 
